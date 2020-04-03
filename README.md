@@ -1,4 +1,4 @@
-# Template taller de software 
+# Sistema WEB de reservas para arriendo de cabañas
 
 ## Descripción de carpetas 
 
@@ -8,7 +8,7 @@
 |informes| Informes del proyecto|
 |docker| Archivo Dockerfile que permite correr el proyecto|
 
-## Ejemplo de como ejecutar docker
+## Ejecutar docker
 
 ```bash
 docker build -t srcdocker -f docker/Dockerfile .
