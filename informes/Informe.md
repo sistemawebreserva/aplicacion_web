@@ -12,7 +12,7 @@ Es un negocio de arriendo de cabañas ubicado en Chamiza, Carretera Austral, don
 El dueño de estas cabañas y casas se comunicó con nosotros para que le brindemos un servicio para realizar una pagina web donde se implemente los arriendos de sus propiedades, sin embargo, nosotros en conjunto con el decidimos crear e innovar en la creación de esta, donde el usuario tenga la posibilidad de pedir una cabaña personalizada a las necesidades que disponga o necesite para estar cómodo en esta.
 
 #### c) Descripción del modelo de negocios
-![CANVAS](/aplicacion_web/informes/Canvas.png)
+![CANVAS](/informes/Canvas.png)
 
 #### d) Descripción de interesados y posibles usuarios
 El principal interesado es el dueño de las cabañas debido a que este no consta de anuncio o publicidad que no sea la voz a voz, sin embargo, con la creación de la página web se vería aumentada la facilidad de propagar sus cabañas y propiedades al público en general.
