@@ -39,6 +39,7 @@ Plano de las propiedades.
 Stock de inventario de lo que posee para equipamiento de las cabañas.
 
 #### b) Solución propuesta
+Se implementara una plataforma web en donde se hará publicidad de las propiedades, se implementara un sistema de reserva personalizada la cual le permitirá al cliente poder tener la información mas centralizada, ordenada y poder saber el stock disponible de sus servicios con los cuales podrá equipar los domicilios.
 
 #### c) Estudio factibilidad
 
@@ -49,9 +50,17 @@ Stock de inventario de lo que posee para equipamiento de las cabañas.
 #### a) General
 Desarrollar Aplicacion web con arriendos personzalizados, de un solo cliente "Don Luis", donde el usaurio
 o arrendatario debera ingresar y armar que quiere incluir dentro del arriendo, pudiendo asi solicitar servicios
-extras a traves de la aplicacion web, generando reportes y solicitudes dentro de esta.
+extras a traves de la aplicacion web, generando reportes y solicitudes dentro de esta. este proyecto se desarrollara
+en lenguaje C# donde se presentaran los mockups al cliente, donde estaran especificadas las solicitudes que este
+presente tomando en cuenta la toma de requerimientos obtenidas.
 
 #### a) Especifico
+- definir requerimientos del software
+- Diseñar y adminsitrar base da datos
+- Conectar base de datos a aplicacion web
+- Realizar pruebas de uso  para veritificar correcto fucionamiento de la aplicacion
+- implementar procesos de calidad en el sistema
+- Diseñar interfaz de aplicacion web
 
 ## V. Referencias Bibliográficas
 
