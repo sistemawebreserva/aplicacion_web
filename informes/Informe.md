@@ -2,14 +2,24 @@
 -------------
 
 ## I. Resumen
+Se realizara un proyecto para cabañas ubicadas especificamente en el sector de chamiza, 
+donde se implementaran los conocimientos de programacion, comunicacion y se entreganaran
+las soluciones que el cliente en cuestion necesita, para esto se buscara definir el 
+problema u oportunidad que conlleva realizar este proyecto, el cliente busca o necesita
+una aplicacion web que le permita manejar sus cabañas de una manera centralizada, ademas
+de promocionar sus cabañas compartiendo su aplicacion web con un sistema innovador de 
+arriendo, se estrucurara un modelo CANVAS donde se definen o integran las actividades
+claves, propuesta de valor, canales, etc. Ademas se describira los interesados y posibles 
+usuarios, en el proyecto se estableceran los problemas y oportunidades, ademas se defnira
+la propuesta de solucion y los objetivos que busca abarcar el proyecto.
 
 ## II. Descripción del problema
 
 #### a) Descripción de la empresa o negocio
-Es un negocio de arriendo de cabañas ubicado en Chamiza, Carretera Austral, donde el dueño consta con varias propiedades o casas no solo en este sector, sino que también consta con un terreno con varias cabañas a las cercanías de la universidad San Sebastián.
+Es un negocio de arriendo de cabañas, el dueño consta con varias cabañas y casas en el sector de chamiza (carretera Austral) y a las cercanias de la universidad san sebastian. El cliente requiere una plataforma y aplicacion web en donde pueda promosionar y hacer reservas de sus propiedades.
 
 #### b) Problema u oportunidad
-El dueño de estas cabañas y casas se comunicó con nosotros para que le brindemos un servicio para realizar una pagina web donde se implemente los arriendos de sus propiedades, sin embargo, nosotros en conjunto con el decidimos crear e innovar en la creación de esta, donde el usuario tenga la posibilidad de pedir una cabaña personalizada a las necesidades que disponga o necesite para estar cómodo en esta.
+El cliente actualmente no posee un sistema de arriendo de sus propiedades y la publicidad de estas las hace por medio de redes sociales y otras paginas de busca de arriendo, pero para el servicio que quiere ofrecer a los clientes no es suficiente, ya que el quiere una plataforma en donde los clientes puedan personalizar sus arriendos, esto ultimo se refiere a que el cliente pueda elegir con que estaria equipado el domisilio y con que servicios.
 
 #### c) Descripción del modelo de negocios
 ![CANVAS](Canvas.jpg)
@@ -36,9 +46,12 @@ Stock de inventario de lo que posee para equipamiento de las cabañas.
 
 ## IV. Objetivos
 
-#### a) Descripción de la empresa o negocio
+#### a) General
+Desarrollar Aplicacion web con arriendos personzalizados, de un solo cliente "Don Luis", donde el usaurio
+o arrendatario debera ingresar y armar que quiere incluir dentro del arriendo, pudiendo asi solicitar servicios
+extras a traves de la aplicacion web, generando reportes y solicitudes dentro de esta.
 
-#### a) Descripción de la empresa o negocio
+#### a) Especifico
 
 ## V. Referencias Bibliográficas
 
