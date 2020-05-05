@@ -1,6 +1,6 @@
 # Guia de gestion del proyecto
 ----------
-## 1 Estrategias de gestion
+## Estrategias de gestion
 
 ### Política de planificación 
 
