@@ -32,6 +32,13 @@ Nivel alto: 3
 |   R3   |           Perdida de interes del cliente          |            Varios           |                            El cliente puede decidir dejar el proyecto por cualquier motivo                           |                        Se cancela el proyecto                       |     Baja     |   Alto  |   3   |
 |   R4   | perdida de datos |            desastres naturales, problemas computador           |                           El equipo de trabajo puede verse afectado con la perdida de equipo, ya sea por una catastrofe natural como extravio de los componentes                          | Retrasaria al equipo de sobremedida, tener que empezar desde el principio desmotivaria a los participantes. |     bajo     |  medio  |   1   |
 
+| Codigo |                                                                                                                     Accion                                                                                                                    |    Tipo    | Riesgo Residual |
+|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:---------------:|
+|   R1   |                                                                                            Generar tiempos de estudio para reforzar los contenidos                                                                                            | Mitigadora |      Medio      |
+|   R2   |                                                                                                      Trabajar otras extras en el proyecto                                                                                                     | Mitigadora |       bajo      |
+|   R3   | Para no perder toda la informacion de lo trabajadora por falta de este cliente en especifico se guardaran los archivos y datos ya desarrollados  y el proyecto se terminara, luego sera ofrecido de manera personal a otros posibles clientes | Correctiva |      Medio      |
+|   R4   |  Los datos se almacenaran y subiran a la nube que el equipo de trabajo encuentre mas adaptable,  ya sea MEGA, OneDrive, GoogleDrive. Para que los archivos no se pierdan y exista el respaldo para poder retomar el desarrollo del proyecto.  | Correctiva |       Nula      |
+
 ## Plan de contingencia 
 
 ### Estrategia 
