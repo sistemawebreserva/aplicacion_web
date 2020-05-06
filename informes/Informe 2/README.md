@@ -6,3 +6,4 @@
 - [Plan De Calidad](PlanDeCalidad.md)
 - [Matriz de Trazabilidad](MatrizDeTrazabilidadDonLUIS.xlsx)
 - [Estructuracion del Proyecto](EstructuracionDelProyecto.md)
+- [Plan de Compras y Contratos](PlanDeComprasYContratos.md)
