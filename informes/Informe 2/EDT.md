@@ -1,7 +1,7 @@
 # Estructuracion del proyecto
 
 ## 1 Diagrama del proyecto
-[EDT](EDT.png)
+![EDT](EDT.png)
 ## 2 Diccionario de la estructura
 
 |       Codigo: 1.1      |                 Nombre: Planteamiento                |
