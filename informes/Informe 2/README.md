@@ -5,3 +5,4 @@
 - [Plan de Gestion de Riesgos](PlanDeGestiónDeRiesgos.md)
 - [Plan De Calidad](PlanDeCalidad.md)
 - [Matriz de Trazabilidad](MatrizDeTrazabilidadDonLUIS.xlsx)
+- [Estructuracion del Proyecto](EstructuracionDelProyecto.md)
