@@ -39,7 +39,7 @@ Nivel alto: 3
 Se desarrollara un cuadro con medidas correctoras que se deberan cumplir donde se asignaran los reponsables y las 
 acciones
 
-### Medidas correctores
+### Medidas correctoras
 
 ## Planificación 
 
