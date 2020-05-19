@@ -103,4 +103,4 @@
 |       Dependencia      |               codigo 4.2               |
 | Criterio de aceptacion |   aprobacion por el equipo de trabajo  |
 
-
+**Comentarios: El EDT esta incompleto, no considera el proceso de ingeniería concebir, diseñar, implementar y operar, en todas sus areas.Por ejemplo, en la base de datos, no se considera una fase de diseño. Adicionalmente, es de muy alto nivel, que no ayudan a generar una estructura de trabajo semanal**

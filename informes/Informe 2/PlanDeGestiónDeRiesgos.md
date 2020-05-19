@@ -13,6 +13,8 @@ proyecto.
 
 ### Personal aisgnado
 
+**Comentarios: asignado, luego siguen más faltas de ortografía**
+
 Matias Maldonado es quien debe avisar con antisipacion los plazos acotados para el cumplimiento de las tareas 
 asignadas, ademas debe avisar en el caso de algun incidente con los datos del software, ya sea hurto o perdida por
 catastrofe.

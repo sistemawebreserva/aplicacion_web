@@ -20,6 +20,7 @@ Participación e interacción constante entre el equipo de trabajo y los stakeho
 
 Ofrese un mejor manejo de las reservas y una inovacion en cuanto a las reservas.
 
+**Comentarios: Ofrece, innovación**
 
 
 ## 2. Requerimientos del proyecto
@@ -47,7 +48,7 @@ Ofrese un mejor manejo de las reservas y una inovacion en cuanto a las reservas.
 | RNF-02 | La base de datos deberá disponer de un pool de conexiones configurables en número para que la aplicación sea escalable de función de recursos hardware y software disponibles. |
 | RNF-03 | Los datos de la aplicación deberán ser almacenados en un sistema de gestor de base de datos, sobre el cual puedan realizarse futuras consultas no previas en la actualidad.    |
 | RNF-04 | Los colores de la página web van acorde a lo exigido por el dueño.                                                                                                             |
-
+**Comentarios: Si bien los requirimientos estan bien descritos, no estan en el formato correcto. No existe una identificación del interesado, ni la forma de como se obtuvo el requerimiento.
 
 
 ## Limites y restricciones del proyecto
@@ -57,7 +58,7 @@ Ofrese un mejor manejo de las reservas y una inovacion en cuanto a las reservas.
 - Compatibilidad con los navegadores web.
 - No se haga uso de la pagina.
 
-
+**Comentarios: No existe claridad en cuanto a que significa cada item. Por lo que no existen ni limites ni restricciones medibles**
 
 
 
